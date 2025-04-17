@@ -19,7 +19,7 @@ git clone https://github.com/todorescu-diana/packet-sniffer
 cd packet-sniffer
 ```
 
-### 2. Create and activate Python virutal environment
+### 2. Create and activate Python virtual environment
 ```
 python -m venv venv
 ```
