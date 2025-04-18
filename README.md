@@ -10,7 +10,7 @@ The captured packets are shown in a tree-like structure, offering information ab
 In case of TCP segments, if they use TLS, then the TLS records are also shown.
 
 ## Installation
-- _python3_ can may have to be used instead of _python_, depending on your configuration.
+- _python3_ may have to be used instead of _python_, depending on your configuration.
 ### 1. Clone the repo
 ```
 git clone https://github.com/todorescu-diana/packet-sniffer
